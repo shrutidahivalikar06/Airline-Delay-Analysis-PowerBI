@@ -28,6 +28,11 @@ This project represents my effort to practice **data analysis, dashboard develop
 
 📂 Dataset
 
+The dataset used in this project was too large to preview directly on GitHub.
+You can download the dataset from the link below:
+Dataset Download:
+https://drive.google.com/file/d/1HMveyfGtJMWMDW5YKUvgA7DTmaVkznr7/view?usp=drivesdk
+
 The dataset used in this project contains airline operational metrics including:
 
 - Airline carriers
