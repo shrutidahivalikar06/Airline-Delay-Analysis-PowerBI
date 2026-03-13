@@ -65,7 +65,8 @@ The dataset used in this project contains airline operational metrics including:
 
 The Power BI report contains **three analytical dashboard pages**.
 
-1️⃣ Overview Dashboard
+1️⃣ Overview Dashboard:
+https://drive.google.com/file/d/1NWdJvAlZ6jB9iH7Z8jE3Vn2gEcFgJNh7/view?usp=drivesdk
 
 This page provides a high-level summary of airline operations and delay statistics.
 
@@ -81,7 +82,8 @@ This page provides a high-level summary of airline operations and delay statisti
 - Monthly delay trend
 
 
-2️⃣ Airport Performance Analysis
+2️⃣ Airport Performance Analysis:
+https://drive.google.com/file/d/1S7xCpzN8asNwI1Br6Ed1MKyu72igpxy1/view?usp=drivesdk
 
 This page focuses on airport-level operational performance.
 
@@ -93,7 +95,8 @@ This page focuses on airport-level operational performance.
 - Airport delay rate analysis
 
 
-3️⃣ Delay Cause Analysis
+3️⃣ Delay Cause Analysis:
+https://drive.google.com/file/d/106xFh_nOigZ3IZpdsU5CeodMk7_vupZY/view?usp=drivesdk
 
 This page focuses on identifying the root causes of airline delays.
 
